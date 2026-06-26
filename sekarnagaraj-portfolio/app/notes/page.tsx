@@ -1,0 +1,1 @@
+export default function Notes(){return <main className="mx-auto max-w-4xl px-5 py-16"><h1 className="text-4xl font-bold">Books & Notes</h1><p className="mt-4 text-slate-600">DP-203, AI-102, DP-700, Azure, Fabric, testing and architecture notes will be added here.</p></main>}

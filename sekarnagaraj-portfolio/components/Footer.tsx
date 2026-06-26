@@ -1,0 +1,1 @@
+export default function Footer(){return <footer className="mt-20 border-t border-slate-200 py-8 text-center text-slate-500 text-sm">© {new Date().getFullYear()} Sekar Nagaraj. Built as a living digital portfolio.</footer>}
